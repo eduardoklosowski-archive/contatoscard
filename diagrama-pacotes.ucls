@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.10" icons="false" automaticImage="PNG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true" 
+  router="FAN">  
+  <package id="1" language="java" name="br.eduardoklosowski.contatoscard" project="contatos-card" 
+    file="/contatos-card/src/br/eduardoklosowski/contatoscard" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="546" x="30" y="10"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="2" language="java" name="br.eduardoklosowski.contatoscard.models" project="contatos-card" 
+    file="/contatos-card/src/br/eduardoklosowski/contatoscard/models" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="303" y="88"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="3" language="java" name="br.eduardoklosowski.contatoscard.persistences" project="contatos-card" 
+    file="/contatos-card/src/br/eduardoklosowski/contatoscard/persistences" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="172" width="523" x="42" y="125"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="4" language="java" name="br.eduardoklosowski.contatoscard.persistences.make" project="contatos-card" 
+    file="/contatos-card/src/br/eduardoklosowski/contatoscard/persistences/make" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="303" y="202"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="5" language="java" name="br.eduardoklosowski.contatoscard.persistences.parse" project="contatos-card" 
+    file="/contatos-card/src/br/eduardoklosowski/contatoscard/persistences/parse" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="303" y="263"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
